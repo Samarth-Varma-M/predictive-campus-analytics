@@ -1,4 +1,4 @@
-# KPMG Smart Campus Analytics - Pitch & Demo Guide
+# Predictive Campus Analytics - Pitch & Demo Guide
 
 This document is designed to help you crush your hackathon presentation. Our project heavily targets the **"Decision Intelligence"** and **"Actionable Analytics"** requirements of the KPMG brief. 
 
