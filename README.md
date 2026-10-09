@@ -50,7 +50,3 @@ A state-of-the-art **Campus Intelligence Platform** built for the KPMG Hackathon
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Demo Guide
-
-Preparing for a pitch? Check out our [Pitch & Demo Guide](./DEMO_GUIDE.md) for a step-by-step walk-through of the platform's key features to wow the judges!
